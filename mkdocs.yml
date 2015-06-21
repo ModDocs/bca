@@ -1,0 +1,12 @@
+site_name: Buildcraft-Additions
+repo_url: https://github.com/ModDocs/bca
+strict: true
+
+markdown_extensions:
+  - smarty
+  - urlize
+  - tables
+  - fenced_code
+
+pages:
+  - Home: index.md
