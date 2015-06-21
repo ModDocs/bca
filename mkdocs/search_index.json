@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Buildcraft-Additions\n\n\nWelcome to the documentation of Buildcraft-Additions.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#buildcraft-additions", 
+            "text": "Welcome to the documentation of Buildcraft-Additions.", 
+            "title": "Buildcraft-Additions"
+        }
+    ]
+}
