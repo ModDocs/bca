@@ -9,6 +9,16 @@
             "location": "/#buildcraft-additions", 
             "text": "Welcome to the documentation of Buildcraft-Additions.", 
             "title": "Buildcraft-Additions"
+        }, 
+        {
+            "location": "/Blocks/Multiblocks/", 
+            "text": "Refinery\n\n\nThe Refinery is one of many multiblock structures included in BuildCraft Additions. This machine has the capability to convert oil into Fuel Gas, which is used in the process of making Fuel.\n\n\nThis machine is the first in two processes of converting Oil into Fuel, the other being the Cooling Tower.\n\n\n\n\nThe multiblock structure is made out of two main blocks, Refinery Plating and Refinery Valves.\n\n\nStructure\n\n\n\n\n\n\n\n\n\n\n\n\nRecipes\n\n\nWall Recipe\n\n\n\n\nValve Recipe\n\n\n\n\nUsage\n\n\n\n\n\n\nYou will find the bar at the bottom of the GUI will start to move, reaching full heat. You can see the required heat. Once the threshold is met, the refinery will start converting Oil into Fuel Gas.\n\n\n\n\n\n\nTo process the Fuel Gas into a useable energy source, you will have to use the next machine: The Cooling Tower.", 
+            "title": "Multiblocks"
+        }, 
+        {
+            "location": "/Blocks/Multiblocks/#refinery", 
+            "text": "The Refinery is one of many multiblock structures included in BuildCraft Additions. This machine has the capability to convert oil into Fuel Gas, which is used in the process of making Fuel.  This machine is the first in two processes of converting Oil into Fuel, the other being the Cooling Tower.   The multiblock structure is made out of two main blocks, Refinery Plating and Refinery Valves.  Structure       Recipes  Wall Recipe   Valve Recipe   Usage    You will find the bar at the bottom of the GUI will start to move, reaching full heat. You can see the required heat. Once the threshold is met, the refinery will start converting Oil into Fuel Gas.    To process the Fuel Gas into a useable energy source, you will have to use the next machine: The Cooling Tower.", 
+            "title": "Refinery"
         }
     ]
 }

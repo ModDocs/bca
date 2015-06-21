@@ -7,14 +7,14 @@
         
         
         
-        <link rel="shortcut icon" href="./img/favicon.ico">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
 
-	<title>Buildcraft-Additions</title>
+	<title>Multiblocks - Buildcraft-Additions</title>
 
-        <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="./css/font-awesome-4.0.3.css" rel="stylesheet">
-        <link href="./css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="./css/highlight.css">
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome-4.0.3.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../../css/highlight.css">
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
@@ -25,7 +25,7 @@
         
     </head>
 
-    <body class="homepage">
+    <body>
 
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
@@ -43,7 +43,7 @@
             
 
             <!-- Main title -->
-            <a class="navbar-brand" href=".">Buildcraft-Additions</a>
+            <a class="navbar-brand" href="../..">Buildcraft-Additions</a>
         </div>
 
         <!-- Expanded navigation -->
@@ -53,19 +53,19 @@
                 <ul class="nav navbar-nav">
                 
                 
-                    <li class="active">
-                        <a href=".">Home</a>
+                    <li >
+                        <a href="../..">Home</a>
                     </li>
                 
                 
                 
-                    <li class="dropdown">
+                    <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blocks <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                         
                             
-<li >
-    <a href="Blocks/Multiblocks/">Multiblocks</a>
+<li class="active">
+    <a href="./">Multiblocks</a>
 </li>
 
                         
@@ -83,13 +83,13 @@
                     </a>
                 </li>
                 
-                    <li class="disabled">
-                        <a rel="next" >
+                    <li >
+                        <a rel="next" href="../..">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
-                    <li >
-                        <a rel="prev" href="Blocks/Multiblocks/">
+                    <li class="disabled">
+                        <a rel="prev" >
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -114,15 +114,42 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#buildcraft-additions">Buildcraft-Additions</a></li>
+        <li class="main active"><a href="#refinery">Refinery</a></li>
+        
+            <li><a href="#structure">Structure</a></li>
+        
+            <li><a href="#recipes">Recipes</a></li>
+        
+            <li><a href="#usage">Usage</a></li>
         
     
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="buildcraft-additions">Buildcraft-Additions</h1>
-<p>Welcome to the documentation of Buildcraft-Additions.</p></div>
+<h2 id="refinery">Refinery</h2>
+<p>The Refinery is one of many multiblock structures included in BuildCraft Additions. This machine has the capability to convert oil into Fuel Gas, which is used in the process of making Fuel.</p>
+<p>This machine is the first in two processes of converting Oil into Fuel, the other being the Cooling Tower.</p>
+<p><img alt="Full Structure" src="../../img/Blocks/Multiblocks/Refinery/step_5.png" /></p>
+<p>The multiblock structure is made out of two main blocks, Refinery Plating and Refinery Valves.</p>
+<h3 id="structure">Structure</h3>
+<p><img alt="Step 1" src="../../img/Blocks/Multiblocks/Refinery/step_1.png" />
+<img alt="Step 2" src="../../img/Blocks/Multiblocks/Refinery/step_2.png" />
+<img alt="Step 3" src="../../img/Blocks/Multiblocks/Refinery/step_3.png" />
+<img alt="Step 4" src="../../img/Blocks/Multiblocks/Refinery/step_4.png" />
+<img alt="Step 5" src="../../img/Blocks/Multiblocks/Refinery/step_5.png" /></p>
+<h3 id="recipes">Recipes</h3>
+<h4 id="wall-recipe">Wall Recipe</h4>
+<p><img alt="Wall Recipe" src="../../img/Blocks/Multiblocks/Refinery/recipe_wall.png" /></p>
+<h4 id="valve-recipe">Valve Recipe</h4>
+<p><img alt="Valve Recipe" src="../../img/Blocks/Multiblocks/Refinery/recipe_valve.png" /></p>
+<h3 id="usage">Usage</h3>
+<p><img alt="Usage 1" src="../../img/Blocks/Multiblocks/Refinery/usage_1.png" />
+<img alt="Usage 2" src="../../img/Blocks/Multiblocks/Refinery/usage_2.png" /></p>
+<p>You will find the bar at the bottom of the GUI will start to move, reaching full heat. You can see the required heat. Once the threshold is met, the refinery will start converting Oil into Fuel Gas.</p>
+<p><img alt="Usage 3" src="../../img/Blocks/Multiblocks/Refinery/usage_3.png" />
+<img alt="Usage 4" src="../../img/Blocks/Multiblocks/Refinery/usage_4.png" /></p>
+<p>To process the Fuel Gas into a useable energy source, you will have to use the next machine: The Cooling Tower.</p></div>
             
         </div>
 
@@ -132,12 +159,12 @@
             <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
 
-        <script src="./js/jquery-1.10.2.min.js"></script>
-        <script src="./js/bootstrap-3.0.3.min.js"></script>
-        <script src="./js/highlight.pack.js"></script>
-        <script>var base_url = '.';</script>
-        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
-        <script src="./js/base.js"></script>
+        <script src="../../js/jquery-1.10.2.min.js"></script>
+        <script src="../../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../../js/highlight.pack.js"></script>
+        <script>var base_url = '../..';</script>
+        <script data-main="../../mkdocs/js/search.js" src="../../mkdocs/js/require.js"></script>
+        <script src="../../js/base.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
             <div class="modal-dialog">
@@ -166,8 +193,3 @@
 
     </body>
 </html>
-
-<!--
-MkDocs version : 0.14.0
-Build Date UTC : 2015-06-21 15:44:51.165501
--->
