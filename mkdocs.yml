@@ -10,3 +10,5 @@ markdown_extensions:
 
 pages:
   - Home: index.md
+  - Blocks: 
+    - Multiblocks: Blocks/Multiblocks.md
