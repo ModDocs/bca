@@ -56,7 +56,7 @@ The cooling tower is the second machine used in the process of converting Oil in
 A refinery valve is directly crafted into a Cooling Tower Valve.
 
 
-## Usage
+### Usage
 ![Usage 1](../img/Blocks/Multiblocks/CoolingTower/usage_1.png)
 
 Insert Fuel Gas from the bottom of the multiblock.
