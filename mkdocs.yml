@@ -12,4 +12,5 @@ markdown_extensions:
 pages:
   - Home: index.md
   - Blocks: 
-    - Multiblocks: Blocks/Multiblocks.md
+    - Refinery: Blocks/Refinery.md
+    - Cooling Tower: Blocks/Cooling Tower.md
