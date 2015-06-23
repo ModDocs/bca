@@ -32,7 +32,7 @@ You will find the bar at the bottom of the GUI will start to move, reaching full
 
 To process the Fuel Gas into a useable energy source, you will have to use the next machine: The Cooling Tower.
 
-## Refinery
+## Cooling Tower
 The cooling tower is the second machine used in the process of converting Oil into Fuel. The previous machine: the Refinery was used in the conversion of raw Oil into Fuel Gas, this machine will use Fuel Gas and Water to create Fuel.
 
 ![Full Structure](../img/Blocks/Multiblocks/CoolingTower/step_5.png)
