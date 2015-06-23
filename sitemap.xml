@@ -12,7 +12,13 @@
     
         
     <url>
-     <loc>None/Blocks/Multiblocks/</loc>
+     <loc>None/Blocks/Refinery/</loc>
+     <lastmod>2015-06-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/Blocks/Cooling Tower/</loc>
      <lastmod>2015-06-23</lastmod>
      <changefreq>daily</changefreq>
     </url>

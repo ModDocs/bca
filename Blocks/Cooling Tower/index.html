@@ -7,15 +7,15 @@
         
         
         
-        <link rel="shortcut icon" href="./img/favicon.ico">
+        <link rel="shortcut icon" href="../../../../img/favicon.ico">
         
 
-	<title>Buildcraft-Additions</title>
+	<title>Cooling Tower - Buildcraft-Additions</title>
 
-        <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="./css/font-awesome-4.0.3.css" rel="stylesheet">
-        <link href="./css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="./css/highlight.css">
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome-4.0.3.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../../css/highlight.css">
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
@@ -44,7 +44,7 @@
             
 
             <!-- Main title -->
-            <a class="navbar-brand" href=".">Buildcraft-Additions</a>
+            <a class="navbar-brand" href="../..">Buildcraft-Additions</a>
         </div>
 
         <!-- Expanded navigation -->
@@ -55,24 +55,24 @@
                 
                 
                     <li >
-                        <a href=".">Home</a>
+                        <a href="../..">Home</a>
                     </li>
                 
                 
                 
-                    <li class="dropdown">
+                    <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blocks <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                         
                             
 <li >
-    <a href="Blocks/Refinery/">Refinery</a>
+    <a href="../Refinery/">Refinery</a>
 </li>
 
                         
                             
-<li >
-    <a href="Blocks/Cooling Tower/">Cooling Tower</a>
+<li class="active">
+    <a href="./">Cooling Tower</a>
 </li>
 
                         
@@ -90,8 +90,8 @@
                     </a>
                 </li>
                 
-                    <li class="disabled">
-                        <a rel="next" >
+                    <li >
+                        <a rel="next" href="../Refinery/">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
@@ -118,15 +118,50 @@
 
         <div class="container">
             
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+    
+        <li class="main active"><a href="#cooling-tower">Cooling Tower</a></li>
+        
+            <li><a href="#structure">Structure</a></li>
+        
+            <li><a href="#recipes">Recipes</a></li>
+        
+            <li><a href="#usage">Usage</a></li>
+        
+    
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
 
-    <div class="row-fluid">
-      <div id="main-content" class="span12">
-        <h1 id="404-page-not-found" style="text-align: center">404</h1>
-        <p style="text-align: center"><strong>Page not found</strong></p>
-      </div>
-    </div>
-
-
+<h2 id="cooling-tower">Cooling Tower</h2>
+<p>The cooling tower is the second machine used in the process of converting Oil into Fuel. The previous machine: the Refinery was used in the conversion of raw Oil into Fuel Gas, this machine will consume Fuel Gas and Water to create Fuel.</p>
+<p><img alt="Full Structure" src="../../img/Blocks/Multiblocks/CoolingTower/step_5.png" /></p>
+<h3 id="structure">Structure</h3>
+<p><img alt="Step 1" src="../../img/Blocks/Multiblocks/CoolingTower/step_1.png" />
+First, 
+<img alt="Step 2" src="../../img/Blocks/Multiblocks/CoolingTower/step_2.png" />
+<img alt="Step 3" src="../../img/Blocks/Multiblocks/CoolingTower/step_3.png" />
+<img alt="Step 4" src="../../img/Blocks/Multiblocks/CoolingTower/step_4.png" />
+<img alt="Step 5" src="../../img/Blocks/Multiblocks/CoolingTower/step_5.png" /></p>
+<h3 id="recipes">Recipes</h3>
+<h4 id="cooling-tower-wall">Cooling Tower Wall</h4>
+<p><img alt="Wall Recipe" src="../../img/Blocks/Multiblocks/CoolingTower/recipe_wall.png" /></p>
+<p>8 Heat Conductive Plating surrounding 1 redstone yields 10 Cooling Tower Walls.</p>
+<h4 id="cooling-tower-valve">Cooling Tower Valve</h4>
+<p><img alt="Valve Recipe" src="../../img/Blocks/Multiblocks/CoolingTower/recipe_valve.png" /></p>
+<p>A refinery valve is directly crafted into a Cooling Tower Valve.</p>
+<h3 id="usage">Usage</h3>
+<p><img alt="Usage 1" src="../../img/Blocks/Multiblocks/CoolingTower/usage_1.png" /></p>
+<p>Insert Fuel Gas from the bottom of the multiblock.</p>
+<p><img alt="Usage 2" src="../../img/Blocks/Multiblocks/CoolingTower/usage_2.png" /></p>
+<p>You will start to notice the Fuel Gas being converted into Fuel, and the heat bar going up. Once the heat bar is at maximum, the creation of fuel will stop.</p>
+<p><img alt="Usage 3" src="../../img/Blocks/Multiblocks/CoolingTower/usage_3.png" /></p>
+<p>Insert water into the side valve of the structure.</p>
+<p><img alt="Usage 4" src="../../img/Blocks/Multiblocks/CoolingTower/usage_4.png" /></p>
+<p>The water will keep the heat at a steady temperature, allowing the creation of Fuel to continue.</p>
+<p><img alt="Usage 5" src="../../img/Blocks/Multiblocks/CoolingTower/usage_5.png" /></p></div>
+            
         </div>
 
         <footer class="col-md-12">
@@ -135,12 +170,12 @@
             <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
 
-        <script src="./js/jquery-1.10.2.min.js"></script>
-        <script src="./js/bootstrap-3.0.3.min.js"></script>
-        <script src="./js/highlight.pack.js"></script>
-        <script>var base_url = '.';</script>
-        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
-        <script src="./js/base.js"></script>
+        <script src="../../js/jquery-1.10.2.min.js"></script>
+        <script src="../../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../../js/highlight.pack.js"></script>
+        <script>var base_url = '../..';</script>
+        <script data-main="../../mkdocs/js/search.js" src="../../mkdocs/js/require.js"></script>
+        <script src="../../js/base.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
             <div class="modal-dialog">
