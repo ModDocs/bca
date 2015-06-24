@@ -11,29 +11,14 @@
             "title": "Buildcraft-Additions"
         }, 
         {
-            "location": "/Blocks/Refinery/", 
-            "text": "Refinery\n\n\nThe Refinery is one of many multiblock structures included in BuildCraft Additions. This machine has the capability to convert oil into Fuel Gas, which is used in the process of making Fuel.\n\n\nThis machine is the first in two processes of converting Oil into Fuel, the other being the Cooling Tower.\n\n\n\n\nThe multiblock structure is made out of two main blocks, Refinery Plating and Refinery Valves.\n\n\nStructure\n\n\n\n\n\n\n\n\n\n\n\n\nRecipes\n\n\nRefinery Wall Recipe\n\n\n\n\nRefinery Valve Recipe\n\n\n\n\nUsage\n\n\n\n\n\n\nYou will find the bar at the bottom of the GUI will start to move, reaching full heat. You can see the required heat. Once the threshold is met, the refinery will start converting Oil into Fuel Gas.\n\n\n\n\n\n\nTo process the Fuel Gas into a useable energy source, you will have to use the next machine: The Cooling Tower.\n\n\nCooling Tower\n\n\nThe cooling tower is the second machine used in the process of converting Oil into Fuel. The previous machine: the Refinery was used in the conversion of raw Oil into Fuel Gas, this machine will use Fuel Gas and Water to create Fuel.\n\n\n\n\nStructure\n\n\n\n\n\n\n\n\n\n\n\n\nRecipes\n\n\nCooling Tower Wall\n\n\n\n\n8 Heat Conductive Plating surrounding 1 redstone yields 10 Cooling Tower Walls.\n\n\nCooling Tower Valve\n\n\n\n\nA refinery valve is directly crafted into a Cooling Tower Valve.\n\n\nUsage\n\n\n\n\nInsert Fuel Gas from the bottom of the multiblock.\n\n\n\n\nYou will start to notice the Fuel Gas being converted into Fuel, and the heat bar going up. Once the heat bar is at maximum, the creation of fuel will stop.\n\n\n\n\nInsert water into the side valve of the structure.\n\n\n\n\nThe water will keep the heat at a steady temperature, allowing the creation of Fuel to continue.", 
-            "title": "Refinery"
+            "location": "/Blocks/Charging Station/", 
+            "text": "Charging Station", 
+            "title": "Charging Station"
         }, 
         {
-            "location": "/Blocks/Refinery/#refinery", 
-            "text": "The Refinery is one of many multiblock structures included in BuildCraft Additions. This machine has the capability to convert oil into Fuel Gas, which is used in the process of making Fuel.  This machine is the first in two processes of converting Oil into Fuel, the other being the Cooling Tower.   The multiblock structure is made out of two main blocks, Refinery Plating and Refinery Valves.  Structure       Recipes  Refinery Wall Recipe   Refinery Valve Recipe   Usage    You will find the bar at the bottom of the GUI will start to move, reaching full heat. You can see the required heat. Once the threshold is met, the refinery will start converting Oil into Fuel Gas.    To process the Fuel Gas into a useable energy source, you will have to use the next machine: The Cooling Tower.", 
-            "title": "Refinery"
-        }, 
-        {
-            "location": "/Blocks/Refinery/#cooling-tower", 
-            "text": "The cooling tower is the second machine used in the process of converting Oil into Fuel. The previous machine: the Refinery was used in the conversion of raw Oil into Fuel Gas, this machine will use Fuel Gas and Water to create Fuel.   Structure       Recipes  Cooling Tower Wall   8 Heat Conductive Plating surrounding 1 redstone yields 10 Cooling Tower Walls.  Cooling Tower Valve   A refinery valve is directly crafted into a Cooling Tower Valve.  Usage   Insert Fuel Gas from the bottom of the multiblock.   You will start to notice the Fuel Gas being converted into Fuel, and the heat bar going up. Once the heat bar is at maximum, the creation of fuel will stop.   Insert water into the side valve of the structure.   The water will keep the heat at a steady temperature, allowing the creation of Fuel to continue.", 
-            "title": "Cooling Tower"
-        }, 
-        {
-            "location": "/Blocks/Cooling Tower/", 
-            "text": "Cooling Tower\n\n\nThe cooling tower is the second machine used in the process of converting Oil into Fuel. The previous machine: the Refinery was used in the conversion of raw Oil into Fuel Gas, this machine will consume Fuel Gas and Water to create Fuel.\n\n\n\n\nStructure\n\n\n\nFirst, \n\n\n\n\n\n\n\n\n\nRecipes\n\n\nCooling Tower Wall\n\n\n\n\n8 Heat Conductive Plating surrounding 1 redstone yields 10 Cooling Tower Walls.\n\n\nCooling Tower Valve\n\n\n\n\nA refinery valve is directly crafted into a Cooling Tower Valve.\n\n\nUsage\n\n\n\n\nInsert Fuel Gas from the bottom of the multiblock.\n\n\n\n\nYou will start to notice the Fuel Gas being converted into Fuel, and the heat bar going up. Once the heat bar is at maximum, the creation of fuel will stop.\n\n\n\n\nInsert water into the side valve of the structure.\n\n\n\n\nThe water will keep the heat at a steady temperature, allowing the creation of Fuel to continue.", 
-            "title": "Cooling Tower"
-        }, 
-        {
-            "location": "/Blocks/Cooling Tower/#cooling-tower", 
-            "text": "The cooling tower is the second machine used in the process of converting Oil into Fuel. The previous machine: the Refinery was used in the conversion of raw Oil into Fuel Gas, this machine will consume Fuel Gas and Water to create Fuel.   Structure  \nFirst,      Recipes  Cooling Tower Wall   8 Heat Conductive Plating surrounding 1 redstone yields 10 Cooling Tower Walls.  Cooling Tower Valve   A refinery valve is directly crafted into a Cooling Tower Valve.  Usage   Insert Fuel Gas from the bottom of the multiblock.   You will start to notice the Fuel Gas being converted into Fuel, and the heat bar going up. Once the heat bar is at maximum, the creation of fuel will stop.   Insert water into the side valve of the structure.   The water will keep the heat at a steady temperature, allowing the creation of Fuel to continue.", 
-            "title": "Cooling Tower"
+            "location": "/Blocks/Charging Station/#charging-station", 
+            "text": "", 
+            "title": "Charging Station"
         }, 
         {
             "location": "/Blocks/Fluidic Compressor/", 
@@ -44,6 +29,201 @@
             "location": "/Blocks/Fluidic Compressor/#fluidic-compressor", 
             "text": "The Fluidic Compressor is a block added by BuildCraft Additions which has the ability to compress large amounts of fluid into small canisters using Redstone Flux.  Recipes   The Fluidic Compressor is created using 3 gold ingots, 2 iron ingots, 2 pistons, 1 gold canister and 1 flux conductor  Usage  Players must insert fluid into the Fluidic Compressor using blocks like BuildCraft Pipes, TD Fluiducts or EnderIO Conduits. A canister is then needed to compress the fluid into. All three tiers of canister can b used.     The Tier 1 canister can hold 2 buckets of fluid    The Tier 2 canister can hold 8 buckets of fluid    The Tier 3 canister can hold 64 buckets of fluid      Within the Compressor s interface, there is the ability to switch the machine s function from filling the canisters to draining them via the two buttons on the left. This functionality is useful for long distance fluid transportation. The centre item slot is used for inserting the fluid canister. The outputted canister will appear in the right slot. The whole compressing operation requires RF power.", 
             "title": "Fluidic Compressor"
+        }, 
+        {
+            "location": "/Blocks/Heated Furnace/", 
+            "text": "Heated Furnace", 
+            "title": "Heated Furnace"
+        }, 
+        {
+            "location": "/Blocks/Heated Furnace/#heated-furnace", 
+            "text": "", 
+            "title": "Heated Furnace"
+        }, 
+        {
+            "location": "/Blocks/Kinetic Energy Buffer/", 
+            "text": "Kinetic Energy Buffer", 
+            "title": "Kinetic Energy Buffer"
+        }, 
+        {
+            "location": "/Blocks/Kinetic Energy Buffer/#kinetic-energy-buffer", 
+            "text": "", 
+            "title": "Kinetic Energy Buffer"
+        }, 
+        {
+            "location": "/Blocks/Sort-O-Tron/", 
+            "text": "Sort-O-Tron", 
+            "title": "Sort O Tron"
+        }, 
+        {
+            "location": "/Blocks/Sort-O-Tron/#sort-o-tron", 
+            "text": "", 
+            "title": "Sort-O-Tron"
+        }, 
+        {
+            "location": "/Blocks/Coils/Basic Coil/", 
+            "text": "Basic Coil", 
+            "title": "Basic Coil"
+        }, 
+        {
+            "location": "/Blocks/Coils/Basic Coil/#basic-coil", 
+            "text": "", 
+            "title": "Basic Coil"
+        }, 
+        {
+            "location": "/Blocks/Coils/Kinetic Coil/", 
+            "text": "Kinetic Coil", 
+            "title": "Kinetic Coil"
+        }, 
+        {
+            "location": "/Blocks/Coils/Kinetic Coil/#kinetic-coil", 
+            "text": "", 
+            "title": "Kinetic Coil"
+        }, 
+        {
+            "location": "/Blocks/Coils/Lava Coil/", 
+            "text": "Lava Coil", 
+            "title": "Lava Coil"
+        }, 
+        {
+            "location": "/Blocks/Coils/Lava Coil/#lava-coil", 
+            "text": "", 
+            "title": "Lava Coil"
+        }, 
+        {
+            "location": "/Blocks/Dusters/Basic Duster/", 
+            "text": "Basic Duster", 
+            "title": "Basic Duster"
+        }, 
+        {
+            "location": "/Blocks/Dusters/Basic Duster/#basic-duster", 
+            "text": "", 
+            "title": "Basic Duster"
+        }, 
+        {
+            "location": "/Blocks/Dusters/Kinetic Duster/", 
+            "text": "Kinetic Duster", 
+            "title": "Kinetic Duster"
+        }, 
+        {
+            "location": "/Blocks/Dusters/Kinetic Duster/#kinetic-duster", 
+            "text": "", 
+            "title": "Kinetic Duster"
+        }, 
+        {
+            "location": "/Blocks/Dusters/Mechanical Duser/", 
+            "text": "Mechanical Duster", 
+            "title": "Mechanical Duser"
+        }, 
+        {
+            "location": "/Blocks/Dusters/Mechanical Duser/#mechanical-duster", 
+            "text": "", 
+            "title": "Mechanical Duster"
+        }, 
+        {
+            "location": "/Blocks/Dusters/Semi-Automatic Duster/", 
+            "text": "Semi-Automatic Duster", 
+            "title": "Semi Automatic Duster"
+        }, 
+        {
+            "location": "/Blocks/Dusters/Semi-Automatic Duster/#semi-automatic-duster", 
+            "text": "", 
+            "title": "Semi-Automatic Duster"
+        }, 
+        {
+            "location": "/Items/Canisters/", 
+            "text": "Canisters", 
+            "title": "Canisters"
+        }, 
+        {
+            "location": "/Items/Canisters/#canisters", 
+            "text": "", 
+            "title": "Canisters"
+        }, 
+        {
+            "location": "/Items/Kinetic Capsules/", 
+            "text": "Kinetic Capsules", 
+            "title": "Kinetic Capsules"
+        }, 
+        {
+            "location": "/Items/Kinetic Capsules/#kinetic-capsules", 
+            "text": "", 
+            "title": "Kinetic Capsules"
+        }, 
+        {
+            "location": "/MultiBlocks/Advanced Kinetic Energy Buffer/", 
+            "text": "Advanced Kinetic Energy Buffer", 
+            "title": "Advanced Kinetic Energy Buffer"
+        }, 
+        {
+            "location": "/MultiBlocks/Advanced Kinetic Energy Buffer/#advanced-kinetic-energy-buffer", 
+            "text": "", 
+            "title": "Advanced Kinetic Energy Buffer"
+        }, 
+        {
+            "location": "/MultiBlocks/Cooling Tower/", 
+            "text": "Cooling Tower\n\n\nThe cooling tower is the second machine used in the process of converting Oil into Fuel. The previous machine: the Refinery was used in the conversion of raw Oil into Fuel Gas, this machine will consume Fuel Gas and Water to create Fuel.\n\n\n\n\nStructure\n\n\n\nFirst, \n\n\n\n\n\n \n\n\n\nRecipes\n\n\nCooling Tower Wall\n\n\n\n\n8 Heat Conductive Plating surrounding 1 redstone yields 10 Cooling Tower Walls.\n\n\nCooling Tower Valve\n\n\n\n\nA refinery valve is directly crafted into a Cooling Tower Valve.\n\n\nUsage\n\n\n\n\nInsert Fuel Gas from the bottom of the multiblock.\n\n\n\n\nYou will start to notice the Fuel Gas being converted into Fuel, and the heat bar going up. Once the heat bar is at maximum, the creation of fuel will stop.\n\n\n\n\nInsert water into the side valve of the structure.\n\n\n\n\nThe water will keep the heat at a steady temperature, allowing the creation of Fuel to continue.", 
+            "title": "Cooling Tower"
+        }, 
+        {
+            "location": "/MultiBlocks/Cooling Tower/#cooling-tower", 
+            "text": "The cooling tower is the second machine used in the process of converting Oil into Fuel. The previous machine: the Refinery was used in the conversion of raw Oil into Fuel Gas, this machine will consume Fuel Gas and Water to create Fuel.   Structure  \nFirst,       Recipes  Cooling Tower Wall   8 Heat Conductive Plating surrounding 1 redstone yields 10 Cooling Tower Walls.  Cooling Tower Valve   A refinery valve is directly crafted into a Cooling Tower Valve.  Usage   Insert Fuel Gas from the bottom of the multiblock.   You will start to notice the Fuel Gas being converted into Fuel, and the heat bar going up. Once the heat bar is at maximum, the creation of fuel will stop.   Insert water into the side valve of the structure.   The water will keep the heat at a steady temperature, allowing the creation of Fuel to continue.", 
+            "title": "Cooling Tower"
+        }, 
+        {
+            "location": "/MultiBlocks/Large Kinetic Energy Buffer/", 
+            "text": "Large Kinetic Energy Buffer", 
+            "title": "Large Kinetic Energy Buffer"
+        }, 
+        {
+            "location": "/MultiBlocks/Large Kinetic Energy Buffer/#large-kinetic-energy-buffer", 
+            "text": "", 
+            "title": "Large Kinetic Energy Buffer"
+        }, 
+        {
+            "location": "/MultiBlocks/Refinery/", 
+            "text": "Refinery\n\n\nThe Refinery is one of many multiblock structures included in BuildCraft Additions. This machine has the capability to convert oil into Fuel Gas, which is used in the process of making Fuel.\n\n\nThis machine is the first in two processes of converting Oil into Fuel, the other being the Cooling Tower.\n\n\n\n\nThe multiblock structure is made out of two main blocks, Refinery Plating and Refinery Valves.\n\n\nStructure\n\n\n\n\n\n\n\n\n\n\n\n\nRecipes\n\n\nRefinery Wall Recipe\n\n\n\n\nRefinery Valve Recipe\n\n\n\n\nUsage\n\n\n\n\n\n\nYou will find the bar at the bottom of the GUI will start to move, reaching full heat. You can see the required heat. Once the threshold is met, the refinery will start converting Oil into Fuel Gas.\n\n\n\n\n\n\nTo process the Fuel Gas into a useable energy source, you will have to use the next machine: The Cooling Tower.\n\n\nCooling Tower\n\n\nThe cooling tower is the second machine used in the process of converting Oil into Fuel. The previous machine: the Refinery was used in the conversion of raw Oil into Fuel Gas, this machine will use Fuel Gas and Water to create Fuel.\n\n\n\n\nStructure\n\n\n\n\n\n\n\n\n\n\n\n\nRecipes\n\n\nCooling Tower Wall\n\n\n\n\n8 Heat Conductive Plating surrounding 1 redstone yields 10 Cooling Tower Walls.\n\n\nCooling Tower Valve\n\n\n\n\nA refinery valve is directly crafted into a Cooling Tower Valve.\n\n\nUsage\n\n\n\n\nInsert Fuel Gas from the bottom of the multiblock.\n\n\n\n\nYou will start to notice the Fuel Gas being converted into Fuel, and the heat bar going up. Once the heat bar is at maximum, the creation of fuel will stop.\n\n\n\n\nInsert water into the side valve of the structure.\n\n\n\n\nThe water will keep the heat at a steady temperature, allowing the creation of Fuel to continue.", 
+            "title": "Refinery"
+        }, 
+        {
+            "location": "/MultiBlocks/Refinery/#refinery", 
+            "text": "The Refinery is one of many multiblock structures included in BuildCraft Additions. This machine has the capability to convert oil into Fuel Gas, which is used in the process of making Fuel.  This machine is the first in two processes of converting Oil into Fuel, the other being the Cooling Tower.   The multiblock structure is made out of two main blocks, Refinery Plating and Refinery Valves.  Structure       Recipes  Refinery Wall Recipe   Refinery Valve Recipe   Usage    You will find the bar at the bottom of the GUI will start to move, reaching full heat. You can see the required heat. Once the threshold is met, the refinery will start converting Oil into Fuel Gas.    To process the Fuel Gas into a useable energy source, you will have to use the next machine: The Cooling Tower.", 
+            "title": "Refinery"
+        }, 
+        {
+            "location": "/MultiBlocks/Refinery/#cooling-tower", 
+            "text": "The cooling tower is the second machine used in the process of converting Oil into Fuel. The previous machine: the Refinery was used in the conversion of raw Oil into Fuel Gas, this machine will use Fuel Gas and Water to create Fuel.   Structure       Recipes  Cooling Tower Wall   8 Heat Conductive Plating surrounding 1 redstone yields 10 Cooling Tower Walls.  Cooling Tower Valve   A refinery valve is directly crafted into a Cooling Tower Valve.  Usage   Insert Fuel Gas from the bottom of the multiblock.   You will start to notice the Fuel Gas being converted into Fuel, and the heat bar going up. Once the heat bar is at maximum, the creation of fuel will stop.   Insert water into the side valve of the structure.   The water will keep the heat at a steady temperature, allowing the creation of Fuel to continue.", 
+            "title": "Cooling Tower"
+        }, 
+        {
+            "location": "/Other/Engineer/", 
+            "text": "Engineer", 
+            "title": "Engineer"
+        }, 
+        {
+            "location": "/Other/Engineer/#engineer", 
+            "text": "", 
+            "title": "Engineer"
+        }, 
+        {
+            "location": "/Other/Powerplant/", 
+            "text": "Powerplant", 
+            "title": "Powerplant"
+        }, 
+        {
+            "location": "/Other/Powerplant/#powerplant", 
+            "text": "", 
+            "title": "Powerplant"
+        }, 
+        {
+            "location": "/Tools/Kinetic Multi-Tool/", 
+            "text": "Kinetic Multi-Tool", 
+            "title": "Kinetic Multi Tool"
+        }, 
+        {
+            "location": "/Tools/Kinetic Multi-Tool/#kinetic-multi-tool", 
+            "text": "", 
+            "title": "Kinetic Multi-Tool"
         }
     ]
 }
