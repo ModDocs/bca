@@ -8,7 +8,7 @@ The cooling tower is the second machine used in the process of converting Oil in
 First, 
 ![Step 2](../img/Blocks/Multiblocks/CoolingTower/step_2.png)
 ![Step 3](../img/Blocks/Multiblocks/CoolingTower/step_3.png)
-![Step 4](../img/Blocks/Multiblocks/CoolingTower/step_4.png)
+![Step 4](../img/Blocks/Multiblocks/CoolingTower/step_4.png) 
 ![Step 5](../img/Blocks/Multiblocks/CoolingTower/step_5.png)
 
 ### Recipes
