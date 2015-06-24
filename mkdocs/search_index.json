@@ -32,12 +32,12 @@
         }, 
         {
             "location": "/Blocks/Heated Furnace/", 
-            "text": "Heated Furnace", 
+            "text": "Heated Furnace\n\n\nThe Heated Furnace is a block added by BuildCraft Additions which can smelt items at a faster and more efficient rate. \n\n\n\n\nThis furnace does nothing on it\ns own though, and requires surrounding Coils to give it heat energy. There are three types of coil, the Basic Coil, Lava Coil and the Kinetic Coil. These use coal, lava and BC laser energy respectively.\n\n\n\n\nRecipes\n\n\n\n\n\n\n\n\n\n\nUsage\n\n\nCoils must be placed next to the Heated Furnace to transfer energy. A fuel source must be inserted into the coils, and an ingredient through the main furnace. The furnace will only consume fuel when needed and vastly increases the efficiency of fuels compared to the vanilla furnace.", 
             "title": "Heated Furnace"
         }, 
         {
             "location": "/Blocks/Heated Furnace/#heated-furnace", 
-            "text": "", 
+            "text": "The Heated Furnace is a block added by BuildCraft Additions which can smelt items at a faster and more efficient rate.    This furnace does nothing on it s own though, and requires surrounding Coils to give it heat energy. There are three types of coil, the Basic Coil, Lava Coil and the Kinetic Coil. These use coal, lava and BC laser energy respectively.   Recipes      Usage  Coils must be placed next to the Heated Furnace to transfer energy. A fuel source must be inserted into the coils, and an ingredient through the main furnace. The furnace will only consume fuel when needed and vastly increases the efficiency of fuels compared to the vanilla furnace.", 
             "title": "Heated Furnace"
         }, 
         {
