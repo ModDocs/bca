@@ -1,9 +1,9 @@
 ## Fluidic Compressor
 The Fluidic Compressor is a block added by BuildCraft Additions which has the ability to compress large amounts of fluid into small canisters using Redstone Flux.
-![Step 4](../img/Blocks/FluidicCompressor/Block.png)
+![Step 4](../img/Blocks/FluidicCompressor/block.png)
 ### Recipes
 
-![Recipe](../img/Blocks/FluidicCompressor/Recipe.png)
+![Recipe](../img/Blocks/FluidicCompressor/recipe.png)
 
 The Fluidic Compressor is created using 3 gold ingots, 2 iron ingots, 2 pistons, 1 gold canister and 1 flux conductor
 
