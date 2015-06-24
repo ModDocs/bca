@@ -12,6 +12,22 @@
     
         
     <url>
+     <loc>None/Armor/Kinetic Backpack/</loc>
+     <lastmod>2015-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/Armor/Rocket Pants/</loc>
+     <lastmod>2015-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
      <loc>None/Blocks/Charging Station/</loc>
      <lastmod>2015-06-24</lastmod>
      <changefreq>daily</changefreq>
@@ -113,12 +129,30 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>None</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
         
     <url>
+     <loc>None/Tools/Coloring Tool/</loc>
+     <lastmod>2015-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>None/Tools/Kinetic Multi-Tool/</loc>
+     <lastmod>2015-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/Tools/Machine Configurator/</loc>
      <lastmod>2015-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>

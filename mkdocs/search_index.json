@@ -11,6 +11,26 @@
             "title": "Buildcraft-Additions"
         }, 
         {
+            "location": "/Armor/Kinetic Backpack/", 
+            "text": "Kinetic Backpack", 
+            "title": "Kinetic Backpack"
+        }, 
+        {
+            "location": "/Armor/Kinetic Backpack/#kinetic-backpack", 
+            "text": "", 
+            "title": "Kinetic Backpack"
+        }, 
+        {
+            "location": "/Armor/Rocket Pants/", 
+            "text": "Rocket Pants", 
+            "title": "Rocket Pants"
+        }, 
+        {
+            "location": "/Armor/Rocket Pants/#rocket-pants", 
+            "text": "", 
+            "title": "Rocket Pants"
+        }, 
+        {
             "location": "/Blocks/Charging Station/", 
             "text": "Charging Station", 
             "title": "Charging Station"
@@ -216,6 +236,56 @@
             "title": "Powerplant"
         }, 
         {
+            "location": "/Other/Upgrades/Auto-Export/", 
+            "text": "Auto-Export", 
+            "title": "Auto Export"
+        }, 
+        {
+            "location": "/Other/Upgrades/Auto-Export/#auto-export", 
+            "text": "", 
+            "title": "Auto-Export"
+        }, 
+        {
+            "location": "/Other/Upgrades/Auto-Import/", 
+            "text": "Auto-Import", 
+            "title": "Auto Import"
+        }, 
+        {
+            "location": "/Other/Upgrades/Auto-Import/#auto-import", 
+            "text": "", 
+            "title": "Auto-Import"
+        }, 
+        {
+            "location": "/Other/Upgrades/Efficienty/", 
+            "text": "Efficienty Upgrades.md", 
+            "title": "Efficienty"
+        }, 
+        {
+            "location": "/Other/Upgrades/Efficienty/#efficienty-upgradesmd", 
+            "text": "", 
+            "title": "Efficienty Upgrades.md"
+        }, 
+        {
+            "location": "/Other/Upgrades/Speed/", 
+            "text": "Speed Upgrades", 
+            "title": "Speed"
+        }, 
+        {
+            "location": "/Other/Upgrades/Speed/#speed-upgrades", 
+            "text": "", 
+            "title": "Speed Upgrades"
+        }, 
+        {
+            "location": "/Tools/Coloring Tool/", 
+            "text": "Coloring Tool", 
+            "title": "Coloring Tool"
+        }, 
+        {
+            "location": "/Tools/Coloring Tool/#coloring-tool", 
+            "text": "", 
+            "title": "Coloring Tool"
+        }, 
+        {
             "location": "/Tools/Kinetic Multi-Tool/", 
             "text": "Kinetic Multi-Tool", 
             "title": "Kinetic Multi Tool"
@@ -224,6 +294,16 @@
             "location": "/Tools/Kinetic Multi-Tool/#kinetic-multi-tool", 
             "text": "", 
             "title": "Kinetic Multi-Tool"
+        }, 
+        {
+            "location": "/Tools/Machine Configurator/", 
+            "text": "Machine Configurator", 
+            "title": "Machine Configurator"
+        }, 
+        {
+            "location": "/Tools/Machine Configurator/#machine-configurator", 
+            "text": "", 
+            "title": "Machine Configurator"
         }
     ]
 }
