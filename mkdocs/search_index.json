@@ -32,13 +32,18 @@
         }, 
         {
             "location": "/Blocks/Charging Station/", 
-            "text": "Charging Station", 
+            "text": "Charging Station\n\n\nThe Charging Station is a block added by BuildCraft Additions which is able to charge items that require Redstone Flux, such as Kinetic Capsules, TE Flux Capacitors and many other items from other mods. \n\n\n\n\nRecipe\n\n\n\n\nUsage\n\n\nA constant supply of RF power is needed to charge items. Once the item is fully charged the Charging Station will stop consuming power. \n\n\nKinetic Capsules\n\n\nBuildCraft Additions uses Kinetic Capsules for portable power storage. There are three tiers of capsules, each holding a larger amount of RF than the other. These capsules are used for powering key items in BuildCraft Additions such as Kinetic Tools and the Coloring Tool.\n\n\n\n\nThe T1 Capsule holds 100,000 RF\n\n\nThe T2 Capsule holds 300,000 RF\n\n\nThe T3 Capsule holds 1,000,000 RF\n\n\n\n\nRecipes\n\n\nTier 1: \n\n\nTier 2: \n\n\nTier 3:", 
             "title": "Charging Station"
         }, 
         {
             "location": "/Blocks/Charging Station/#charging-station", 
-            "text": "", 
+            "text": "The Charging Station is a block added by BuildCraft Additions which is able to charge items that require Redstone Flux, such as Kinetic Capsules, TE Flux Capacitors and many other items from other mods.    Recipe   Usage  A constant supply of RF power is needed to charge items. Once the item is fully charged the Charging Station will stop consuming power.", 
             "title": "Charging Station"
+        }, 
+        {
+            "location": "/Blocks/Charging Station/#kinetic-capsules", 
+            "text": "BuildCraft Additions uses Kinetic Capsules for portable power storage. There are three tiers of capsules, each holding a larger amount of RF than the other. These capsules are used for powering key items in BuildCraft Additions such as Kinetic Tools and the Coloring Tool.   The T1 Capsule holds 100,000 RF  The T2 Capsule holds 300,000 RF  The T3 Capsule holds 1,000,000 RF   Recipes  Tier 1:   Tier 2:   Tier 3:", 
+            "title": "Kinetic Capsules"
         }, 
         {
             "location": "/Blocks/Fluidic Compressor/", 
