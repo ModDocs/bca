@@ -20,3 +20,7 @@ script:
   - git config --global user.name "Travis CI"
   - git commit -am "CI Update"
   - '[ "$TRAVIS_PULL_REQUEST" == "false" ] && git push > /dev/null 2>&1 || true'
+
+branches:
+  only:
+    - master
