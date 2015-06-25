@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Buildcraft-Additions\n\n\nWelcome to the documentation of Buildcraft-Additions.", 
+            "text": "Buildcraft-Additions\n\n\nWelcome to the official documentation site for BuildCraft Additions\n\n\n\n\nBuildCraft Additions adds many new features to compliment BuildCraft, such as\n\n\n\n\nContributors\n\n\n\n\nAEnterprise: Developer\n\n\nbig_Xplosion: Developer\n\n\niTitus: Developer\n\n\nPlenituz: Modeler\n\n\nAlexTheGre4t: Texture Artist and Documentation writer\n\n\n\n\n\n\nBCA Downloads: \nTo CurseForge\n\n\nBCA Source Code: \nTo GitHub\n\n\n\n\nPages created by AlexTheGre4t.", 
             "title": "Home"
         }, 
         {
             "location": "/#buildcraft-additions", 
-            "text": "Welcome to the documentation of Buildcraft-Additions.", 
+            "text": "", 
             "title": "Buildcraft-Additions"
+        }, 
+        {
+            "location": "/#welcome-to-the-official-documentation-site-for-buildcraft-additions", 
+            "text": "BuildCraft Additions adds many new features to compliment BuildCraft, such as   Contributors   AEnterprise: Developer  big_Xplosion: Developer  iTitus: Developer  Plenituz: Modeler  AlexTheGre4t: Texture Artist and Documentation writer    BCA Downloads:  To CurseForge  BCA Source Code:  To GitHub   Pages created by AlexTheGre4t.", 
+            "title": "Welcome to the official documentation site for BuildCraft Additions"
         }, 
         {
             "location": "/Armor/Kinetic Backpack/", 
@@ -32,12 +37,12 @@
         }, 
         {
             "location": "/Blocks/Basic Kinetic Energy Buffer/", 
-            "text": "Basic Kinetic Energy Buffer\n\n\nThe Basic Kinetic Energy Buffer (Or Mini-KEB for short) is a portable power storage block added by BuildCraft Additions. This KEB can hold 300,000,000 Redstone Flux.\n\n\n\nLeft: Uncharged, Right: Charged\n\n\nRecipe\n\n\n\n\nUsage\n\n\nThe KEB can be charged by directing power into it using BuildCraft Kinesis Pipes or TE FluxDucts. Every side of block is input by default. To change the side I/O, use a machine configurator.  \n\n\n\nInside the interface the energy bar around the red square  will fill up, hovering the cursor over the block will show a tooltip exactly displaying the amount of RF currently in the KEB. And for the red button\u2026 Just don\u2019t press it near anything you would like to keep.  To destroy the KEB, simply shift right click on it with a wrench. The KEB will also retain  energy storage.", 
+            "text": "Basic Kinetic Energy Buffer\n\n\nThe Basic Kinetic Energy Buffer (Or Mini-KEB for short) is a portable power storage block added by BuildCraft Additions. This KEB can hold 300,000,000 Redstone Flux.\n\n\n\nLeft: Uncharged, Right: Charged\n\n\nRecipe\n\n\n\n\nUsage\n\n\nThe KEB can be charged by directing power into it using BuildCraft Kinesis Pipes or TE FluxDucts. Every side of block is input by default. To change the side I/O, use a machine configurator.  \n\n\n\n\n\n\nInside the interface the energy bar around the red square  will fill up, hovering the cursor over the block will show a tooltip exactly displaying the amount of RF currently in the KEB. And for the red button\u2026 Just don\u2019t press it near anything you would like to keep.  To destroy the KEB, simply shift right click on it with a wrench. The KEB will also retain  energy storage.", 
             "title": "Basic Kinetic Energy Buffer"
         }, 
         {
             "location": "/Blocks/Basic Kinetic Energy Buffer/#basic-kinetic-energy-buffer", 
-            "text": "The Basic Kinetic Energy Buffer (Or Mini-KEB for short) is a portable power storage block added by BuildCraft Additions. This KEB can hold 300,000,000 Redstone Flux.  \nLeft: Uncharged, Right: Charged  Recipe   Usage  The KEB can be charged by directing power into it using BuildCraft Kinesis Pipes or TE FluxDucts. Every side of block is input by default. To change the side I/O, use a machine configurator.    \nInside the interface the energy bar around the red square  will fill up, hovering the cursor over the block will show a tooltip exactly displaying the amount of RF currently in the KEB. And for the red button\u2026 Just don\u2019t press it near anything you would like to keep.  To destroy the KEB, simply shift right click on it with a wrench. The KEB will also retain  energy storage.", 
+            "text": "The Basic Kinetic Energy Buffer (Or Mini-KEB for short) is a portable power storage block added by BuildCraft Additions. This KEB can hold 300,000,000 Redstone Flux.  \nLeft: Uncharged, Right: Charged  Recipe   Usage  The KEB can be charged by directing power into it using BuildCraft Kinesis Pipes or TE FluxDucts. Every side of block is input by default. To change the side I/O, use a machine configurator.      Inside the interface the energy bar around the red square  will fill up, hovering the cursor over the block will show a tooltip exactly displaying the amount of RF currently in the KEB. And for the red button\u2026 Just don\u2019t press it near anything you would like to keep.  To destroy the KEB, simply shift right click on it with a wrench. The KEB will also retain  energy storage.", 
             "title": "Basic Kinetic Energy Buffer"
         }, 
         {
