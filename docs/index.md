@@ -1,9 +1,6 @@
 # Buildcraft-Additions
 
 ## Welcome to the official documentation site for BuildCraft Additions
----
-
-#### BuildCraft Additions adds many new features to compliment BuildCraft, such as 
 
 ---
 
