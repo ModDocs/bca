@@ -8,7 +8,7 @@ The Fluidic Compressor is a block added by BuildCraft Additions which has the ab
 The Fluidic Compressor is created using 3 gold ingots, 2 iron ingots, 2 pistons, 1 gold canister and 1 flux conductor
 
 ### Usage
-Players must insert fluid into the Fluidic Compressor using blocks like BuildCraft Pipes, TD Fluiducts or EnderIO Conduits. A canister is then needed to compress the fluid into. All three tiers of canister can b used. 
+Players must insert fluid into the Fluidic Compressor using blocks like BuildCraft Pipes, TD Fluiducts or EnderIO Conduits. A canister is then needed to compress the fluid into. All three tiers of canister can be used. 
 
 + The Tier 1 canister can hold 2 buckets of fluid
 
